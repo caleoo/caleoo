@@ -12,7 +12,7 @@
 
 </div>
 <div align="center">  
-  <img width="60%" height="95px" src="https://github-readme-stats.vercel.app/api?username=caleoo&show_icons=true&count_private=true&hide_border=true&title_color=4e90fd&icon_color=4e90fd&text_color=ffffff&bg_color=0d1117" alt="Caléo github stats" /> 
+  <img width="60%" height="105px" src="https://github-readme-stats.vercel.app/api?username=caleoo&show_icons=true&count_private=true&hide_border=true&title_color=4e90fd&icon_color=4e90fd&text_color=ffffff&bg_color=0d1117" alt="Caléo github stats" /> 
   <img width="60%" height="95px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caleoo&layout=compact&hide_border=true&title_color=4e90fd&text_color=ffffff&bg_color=0d1117" />
 </div>
 
