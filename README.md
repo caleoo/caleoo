@@ -1,5 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=78c8ffheight=120&section=header"/>
----
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=78c8ff&height=120&section=header"/>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="40"/>
