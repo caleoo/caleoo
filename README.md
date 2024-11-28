@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30"/>
   <img width="17"/>
 </div>
-##
+<img width="50%"
 <div align="center">  
   <img width="60%" height="95px" src="https://github-readme-stats.vercel.app/api?username=caleoo&show_icons=true&count_private=true&hide_border=true&title_color=4e90fd&icon_color=4e90fd&text_color=ffffff&bg_color=0d1117" alt="Caléo github stats" /> 
   <img width="60%" height="95px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caleoo&layout=compact&hide_border=true&title_color=4e90fd&text_color=ffffff&bg_color=0d1117" />
