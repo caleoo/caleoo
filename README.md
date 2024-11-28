@@ -22,7 +22,7 @@ Para obter mais informações do conteúdo nos itens a seguir, clique sobre as i
 
 ###
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=27&duration=5000&pause=1000&color=ffffff&center=false&vCenter=true&random=false&width=1000&lines=Desenvolvendo+habilidades:;HTML5,+CSS3+e+JavaScript)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=27&duration=5000&pause=1000&color=ffffff&center=false&vCenter=true&random=false&width=1000&lines=Desenvolvendo+habilidades:;HTML5,+CSS3,+JavaScript+e+Git)
 <div>
   <img width="17"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="HTML5" height="35"/>
