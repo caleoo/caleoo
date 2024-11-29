@@ -38,7 +38,7 @@ Para obter mais informações do conteúdo nos itens a seguir, clique sobre as i
 
 <div>  
   <img height="220px" src="https://github-readme-stats.vercel.app/api?username=caleoo&show_icons=true&count_private=true&hide_border=true&title_color=4e90fd&icon_color=4e90fd&text_color=ffffff&bg_color=0d1117" alt="Caléo github stats" /> 
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caleoo&layout=compact&hide_border=true&title_color=4e90fd&text_color=ffffff&bg_color=0d1117" />
+  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caleoo&layout=compact&hide_border=true&title_color=4e90fd&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <!--<div>
