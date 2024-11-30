@@ -1,10 +1,10 @@
-<h3>Bem-vindo</h3> 
+<h3>Welcome</h3> 
 
-Para obter mais informações do conteúdo nos itens a seguir, clique sobre as imagens, com exceção dos stats.
+For more information on the content in the following items, click on the images, with the exception of stats.
 
 ## 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&duration=5000&pause=1000&color=ffffff&center=false&vCenter=true&random=false&width=1000&lines=Contatos:;Gmail+e+Linkedin)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&duration=5000&pause=1000&color=ffffff&center=false&vCenter=true&random=false&width=1000&lines=Contacts:;Gmail+and+Linkedin)
 <div>
 <img width="17"/>
 <a href="mailto:caleo.gps.6@gmail.com" target="_blank" ral="external"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="caleo.gps.6@gmail.com" height="35"/></a>
@@ -14,7 +14,7 @@ Para obter mais informações do conteúdo nos itens a seguir, clique sobre as i
 
 ###
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=27&duration=5000&pause=1000&color=ffffff&center=false&vCenter=true&random=false&width=1000&lines=Formações:;Currículo,+habilidades+e+certificados)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=27&duration=5000&pause=1000&color=ffffff&center=false&vCenter=true&random=false&width=1000&lines=Formations:;Curriculum,+skills+and+certificates)
 <div>
 <img width="17"/> 
 <a href="https://github.com/caleoo/habilidades/blob/main/Currículo/Currículo%20Caléo%20V.%20C..pdf" target="_self" ral="next"><img src="https://cdn-icons-png.flaticon.com/128/11379/11379875.png" height="35"/></a>
@@ -22,7 +22,7 @@ Para obter mais informações do conteúdo nos itens a seguir, clique sobre as i
 
 ###
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=27&duration=5000&pause=1000&color=ffffff&center=false&vCenter=true&random=false&width=1000&lines=Desenvolvendo+habilidades:;HTML5,+CSS3,+JavaScript+e+Git)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=27&duration=5000&pause=1000&color=ffffff&center=false&vCenter=true&random=false&width=1000&lines=Studying:;HTML5,+CSS3,+JavaScript+and+Git)
 <div>
   <img width="17"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="HTML5" height="35"/>
