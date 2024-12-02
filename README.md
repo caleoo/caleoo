@@ -1,10 +1,10 @@
-<h3>Welcome</h3> 
+<h3>Hi There, Welcome</h3> 
 
 For more information on the content in the following items, click on the images, with the exception of stats.
 
 ## 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&duration=5000&pause=1000&color=ffffff&center=false&vCenter=true&random=false&width=1000&lines=Contacts:;Gmail+and+Linkedin)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&duration=5000&pause=1000&color=ffffff&center=false&vCenter=true&random=false&width=1000&lines=Contacts:;Gmail+and+Linkedin.)
 <div>
 <img width="17"/>
 <a href="mailto:caleo.gps.6@gmail.com" target="_blank" ral="external"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="caleo.gps.6@gmail.com" height="35"/></a>
@@ -14,7 +14,7 @@ For more information on the content in the following items, click on the images,
 
 ###
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=27&duration=5000&pause=1000&color=ffffff&center=false&vCenter=true&random=false&width=1000&lines=Formations:;Curriculum,+skills+and+certificates)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=27&duration=5000&pause=1000&color=ffffff&center=false&vCenter=true&random=false&width=1000&lines=Formations:;Curriculum,+skills+and+certificates.)
 <div>
 <img width="17"/> 
 <a href="https://github.com/caleoo/curriculum/blob/main/Currículo%20Caléo%20V.%20C..pdf" target="_self" ral="next"><img src="https://cdn-icons-png.flaticon.com/128/11379/11379875.png" height="35"/></a>
@@ -22,7 +22,7 @@ For more information on the content in the following items, click on the images,
 
 ###
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=27&duration=5000&pause=1000&color=ffffff&center=false&vCenter=true&random=false&width=1000&lines=Studying:;HTML5,+CSS3,+JavaScript+and+Git)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=27&duration=5000&pause=1000&color=ffffff&center=false&vCenter=true&random=false&width=1000&lines=Studying:;HTML5,+CSS3,+JavaScript+and+Git.)
 <div>
   <img width="17"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="HTML5" height="35"/>
@@ -32,6 +32,18 @@ For more information on the content in the following items, click on the images,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" height="35"/>
   <img width="17"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="35"/>
+</div>
+
+###
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=27&duration=5000&pause=1000&color=ffffff&center=false&vCenter=true&random=false&width=1000&lines=I+intend+to+study:;Linux,+Python+and+Node.js.)
+<div>
+  <img width="17"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="35"/>
+  <img width="17"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="35"/>
+  <img width="17"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" height="35"/>
 </div>
 
 ##
