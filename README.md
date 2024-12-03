@@ -17,7 +17,7 @@ For more information on the content in the following items, click on the images,
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=27&duration=5000&pause=1000&color=ffffff&center=false&vCenter=true&random=false&width=1000&lines=Formations:;Curriculum,+skills+and+certificates.)
 <div>
 <img width="17"/> 
-<a href="https://github.com/caleoo/curriculum/blob/main/Currículo%20Caléo%20V.%20C..pdf" target="_self" ral="next"><img src="https://cdn-icons-png.flaticon.com/128/11379/11379875.png" height="35"/></a>
+<a href="https://github.com/caleoo/curriculum/blob/main/Currículo%20Caléo%20V.%20C..pdf" target="_self" ral="next"><img src="https://www.adobe.com/content/dam/dx-dc/us/en/acrobat/dc-refresh/overview/Icon_Acrobat.svg" height="35"/></a>
 </div>
 
 ###
