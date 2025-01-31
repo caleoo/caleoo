@@ -27,11 +27,7 @@ For more information on the content in the following items, click on the images,
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=27&duration=5000&pause=1000&color=ffffff&center=false&vCenter=true&random=false&width=1000&lines=Studying:;HTML5,+CSS3,+JavaScript+and+Git.)
 <div>
   <img width="17"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="HTML5" height="35"/>
-  <img width="17"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="CSS3" height="35"/>
-  <img width="17"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="17"/>
 </div>
 
@@ -41,8 +37,6 @@ For more information on the content in the following items, click on the images,
 <div>
   <img width="17"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="35"/>
-  <img width="17"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="35"/>
   <img width="17"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" height="35"/>
 </div>
