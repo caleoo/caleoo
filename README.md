@@ -9,7 +9,7 @@ For more information on the content in the following items, click on the images,
 <img width="17"/>
 <a href="mailto:caleo.gps.6@gmail.com" target="_blank" ral="external"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="caleo.gps.6@gmail.com" height="35"/></a>
 <img width="17"/>
-<a href="www.linkedin.com/in/caléo-vieira-cordeiro-584b8a337/" target="_blank" ral="external"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="35"/></a>
+<a href="www.linkedin.com/in/caléo-vieira-cordeiro-584b8a337" target="_blank" ral="external"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="35"/></a>
 </div>
 
 ###
